@@ -372,4 +372,11 @@ form input,form textarea{
         display: block;
         margin: 25px;
     }
+     .about-col-1 img{
+        width: 320px;
+        border-radius: 15px;
+        border-color:#b54769 ;
+        border-width: 5px;
+        border-style:solid;
+    }
 }
